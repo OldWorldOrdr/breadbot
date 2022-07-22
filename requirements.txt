@@ -1,0 +1,5 @@
+pip
+yt-dlp
+py-cord[voice]
+colorlog
+pynacl
