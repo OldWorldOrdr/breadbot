@@ -1,5 +1,4 @@
-import discord
-import json
+import discord, urllib3, json
 from discord.ext import commands
 
 class Dog(commands.Cog):
