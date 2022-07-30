@@ -8,7 +8,7 @@ TOKEN = os.getenv('TOKEN')
 
 client = discord.Bot(debug_guilds=[902399321260052551])
 cogs_list = [
-    'play'
+    'play',
     'test1',
     'test2',
 ]
