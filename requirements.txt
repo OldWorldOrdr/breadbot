@@ -3,3 +3,4 @@ yt-dlp
 py-cord[voice]
 colorlog
 pynacl
+python-dotenv
